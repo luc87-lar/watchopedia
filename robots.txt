@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://github.com/luc87-lar/watchopedia.git/sitemap.xml
